@@ -1,0 +1,4 @@
+firstGitTry
+===========
+
+Experimental program
